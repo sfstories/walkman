@@ -35,31 +35,31 @@ let curr_track = document.createElement("audio");
 // add your playlist here!
 let track_list = [
 	{
-		name: "Camel8strike",
-		artist: "Asian Glow",
-		album: "11100011", // name of album
-		genre: "Shoegaze",
-		year: "2025", // year song was released
-		image: "files/11100011.jpeg", // album cover path
-		path: "https://files.catbox.moe/jfmagx.mp3", // mp3 audio path
+		name: "gun show",
+		artist: "lil hero",
+		album: "pawwwfect!", // name of album
+		genre: "Pop",
+		year: "2023", // year song was released
+		image: "https://files.catbox.moe/3abh38.jpg", // album cover path
+		path: "https://files.catbox.moe/borvtn.mp3", // mp3 audio path
 	},
 	{
-		name: "Cyber Space 2-1: Slice & Sway",
-		artist: "SEGA SOUND TEAM",
-		album: "Sonic Frontiers Original Soundtrack Stillness & Motion",
-		genre: "Drum n Bass",
-		year: "2022",
-		image: "files/sonic-frontiers-ost.jpg",
-		path: "https://files.catbox.moe/rgotfj.mp3",
+		name: "Heaven Sent",
+		artist: "Esthero",
+		album: "Breath from Another",
+		genre: "Trip-Hop",
+		year: "1998",
+		image: "https://files.catbox.moe/keq7cv.jpg",
+		path: "https://files.catbox.moe/ux87lu.mp3",
 	},
 	{
-		name: "溢れてる",
-		artist: "kinoue64",
-		album: "あなただけに聴いてほしい",
-		genre: "Rock",
-		year: "2023",
-		image: "files/kinoue64-album1.jpg",
-		path: "https://files.catbox.moe/6gbrjt.mp3",
+		name: "XIII. Le Cygne",
+		artist: "Camille Saint-Saen",
+		album: "Carnival of the Animals",
+		genre: "Classical",
+		year: "1886",
+		image: "https://files.catbox.moe/26gxxc.jpg",
+		path: "https://files.catbox.moe/oxxdbp.mp3",
 	},
 ];
 
