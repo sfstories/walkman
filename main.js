@@ -41,7 +41,7 @@ let track_list = [
 		genre: "Pop",
 		year: "2023", // year song was released
 		image: "https://files.catbox.moe/3abh38.jpg", // album cover path
-		path: "https://files.catbox.moe/borvtn.mp3", // mp3 audio path
+		path: "https://files.catbox.moe/yt0a5d.mp3", // mp3 audio path
 	},
 	{
 		name: "Heaven Sent",
@@ -50,7 +50,7 @@ let track_list = [
 		genre: "Trip-Hop",
 		year: "1998",
 		image: "https://files.catbox.moe/keq7cv.jpg",
-		path: "https://files.catbox.moe/ux87lu.mp3",
+		path: "https://files.catbox.moe/rg80do.mp3",
 	},
 	{
 		name: "XIII. Le Cygne",
@@ -59,7 +59,7 @@ let track_list = [
 		genre: "Classical",
 		year: "1886",
 		image: "https://files.catbox.moe/26gxxc.jpg",
-		path: "https://files.catbox.moe/oxxdbp.mp3",
+		path: "https://files.catbox.moe/xzedcr.mp3",
 	},
 ];
 
